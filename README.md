@@ -48,7 +48,7 @@ Wantedlyにだいたい書いてあります。
 # 著書
 本とか書けます。
 
-- 『[完全SIer脱出マニュアル](https://www.amazon.co.jp/dp/B07TM9LWTN)』（シーアンドアール研究所 (2019/6/22)）
+- 『[完全SIer脱出マニュアル](https://www.amazon.co.jp/dp/B07TM9LWTN)』（シーアンドアール研究所から2019/6/22に出版）
 - 『[#非エンジニアのためのJavaScript](https://booth.pm/ja/items/1311888)』（同人誌）
 
 # インタビュー記事
