@@ -35,11 +35,6 @@
 
 - [デジつよ / gami - YouTube](https://www.youtube.com/channel/UCpEuAd4crYtNY6xj6LyG5YA)
 
-## TikTok
-ほぼ毎週、1分以内の動画をアップロードしています。Web関連の用語や仕事で使えるTipsをライトに紹介する内容が多いです。
-
-- https://www.tiktok.com/@jumpei_ikegami
-
 # 詳しい経歴
 Wantedlyにだいたい書いてあります。
 
